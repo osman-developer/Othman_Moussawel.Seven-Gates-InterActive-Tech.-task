@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: user
+Build-Jdk: 15.0.1
+Implementation-Title: Java Spring Album API
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: io.java.springbootalbum
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/album-api/
+Created-By: Maven Integration for Eclipse
+
