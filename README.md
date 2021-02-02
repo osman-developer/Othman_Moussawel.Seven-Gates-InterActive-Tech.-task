@@ -10,5 +10,5 @@ The other package is the one that contanis the models ( the class for users,albu
 -To call the getAlbumsOfUsers Method : http://localhost:8084/UserAlbum/1  you can put any id for now i put 1 (http://localhost:8084/UserAlbum/id).
 I attached a Pictures folder in which I screenshoted the call of the API of https://jsonplaceholder.typicode.com  from chrome and pictures from Postman that calls my API.
 The image that ends with .(1) is the result of the call of  https://jsonplaceholder.typicode.com API from the browser whereas the image that ends with .(2) is the result of the call of my API in postman. The reason I did screenshots of the browser and postman in order for you to differentiate between them.
-
+ I used Spring tool suite IDE to develop the application.
 Thanks.
