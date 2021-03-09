@@ -1,4 +1,4 @@
-# Othman_Moussawel.Seven-Gates-InterActive-Tech.-task
+
 
 Hello it's Othman Moussawel, please find below the source code of the project in which you can call jsonplaceholder API within your JAVA springboot application.
 I have set the server port to '8084' but you can change it from : "src/main/resources/application.properties".
